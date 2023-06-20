@@ -40,3 +40,8 @@ footer {
     font-size: 1.2em;
 }
 
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
